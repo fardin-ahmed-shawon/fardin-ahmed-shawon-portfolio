@@ -4,66 +4,66 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-6">
 					<div class="row">
-						<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="col-6 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
 									<img style="width: 35%" src="img/brands/logo1.png" alt="">
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="col-6 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
 									<img src="img/brands/logo2.png" alt="">
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="col-6 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
 									<img src="img/brands/logo3.png" alt="">
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="col-6 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
 									<img src="img/brands/logo4.png" alt="">
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="col-6 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
 									<img src="img/brands/logo5.png" alt="">
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="col-6 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
 									<img src="img/brands/logo6.png" alt="">
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="col-6 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo7.png" alt="">
+									<img style="width: 35%" src="img/brands/logo7.png" alt="">
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="col-6 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo8.png" alt="">
+									<img style="width: 55%" src="img/brands/logo8.png" alt="">
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6">
+						<div class="col-6 col-sm-4">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img style="width: 25%" src="img/brands/logo9.png" alt="">
+									<img style="width: 35%" src="img/brands/logo9.png" alt="">
 								</div>
 							</div>
 						</div>

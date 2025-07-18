@@ -1,7 +1,7 @@
 	<!--================ Start Header Area =================-->
 	<header class="header_area">
 		<div class="main_menu">
-			<nav class="navbar navbar-expand-lg navbar-light">
+			<nav class="navbar navbar-expand-lg navbar-light" style="border-bottom: 3px solid #4458DC;">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
 					<a style="font-size: 25px; color: #4458DC; font-weight: 600;" class="navbar-brand logo_h" href="index.html">Fardin.</a>
@@ -35,6 +35,12 @@
 								</ul>
 							</li>
 							<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+							
+							<li class="nav-item"><a class="nav-link" style="cursor: pointer;">
+								<!-- Theme Toggle Icons -->
+								<i class="ri-sun-fill sun-icon"></i>
+								<!-- <i class="ri-moon-fill moon-icon"></i> -->
+							</a></li>
 						</ul>
 					</div>
 				</div>
