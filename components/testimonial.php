@@ -22,7 +22,7 @@
         							<h4>Siam Hossain</h4>
 									<h6>CEO</h6>
 									<h6>Dream City Housing</h6>
-									<p>Amazing results! This agency boosted our online presence, driving more traffic and leads. Their dedicated and innovative team helped grow our business. Highly recommend their services!</p>
+									<p>Amazing results! boosted our online presence, driving more traffic and leads, innovative team helped grow our business. Highly recommend services.</p>
         						</div>
         					</div>
         				</div>
@@ -37,7 +37,7 @@
         							<h4>Md. Mainul Hasan</h4>
 									<h6>Founder & CEO</h6>
 									<h6>D Smart Group</h6>
-									<p>Working with this agency has been a game-changer for our company. Their team's dedication and innovative thinking have helped us dominate our industry's online presence and achieve remarkable growth.</p>
+									<p>Working with this agency has been a game-changer for our company. Their team's dedication and innovative thinking have helped us to and achieve remarkable growth.</p>
         						</div>
         					</div>
         				</div>
@@ -52,7 +52,7 @@
         							<h4>Mirza Inam</h4>
 									<h6>CEO & Founder</h6>
 									<h6>WishBD</h6>
-									<p>Fantastic agency! They delivered beyond expectations, enhancing our online reach and helping us grow. Professional, innovative, and always reliable. I am going to Highly recommend their work and their services!</p>
+									<p>Delivered beyond expectations, enhancing our online reach and helping us. Professional, innovative, and always reliable. I am going to Highly recommend their services.</p>
         						</div>
         					</div>
         				</div>

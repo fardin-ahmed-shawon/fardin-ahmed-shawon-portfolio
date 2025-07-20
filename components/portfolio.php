@@ -39,9 +39,9 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Marketplace Website</a></h4>
+								<h4><a href="portfolio-details.php">Marketplace Website</a></h4>
 								<p>Web Application</p>
-								<a href="https://wholesellermarket.com/" target="_blank"><button class="btn btn-primary">
+								<a href="https://wholesellermarket.com/" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>
@@ -60,9 +60,9 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html"></a>Multivendor E-Commerce</h4>
+								<h4><a href="portfolio-details.php"></a>Multivendor E-Commerce</h4>
 								<p>Web Application</p>
-								<a href="http://amali.com.bd/" target="_blank"><button class="btn btn-primary">
+								<a href="http://amali.com.bd/" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>
@@ -81,9 +81,9 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">E-commerce Application</a></h4>
+								<h4><a href="portfolio-details.php">E-commerce Application</a></h4>
 								<p>Web Application</p>
-								<a href="https://php.easytechx.com/" target="_blank"><button class="btn btn-primary">
+								<a href="https://php.easytechx.com/" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>
@@ -102,9 +102,9 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Co-Living Platform</a></h4>
+								<h4><a href="portfolio-details.php">Co-Living Platform</a></h4>
 								<p>Web Application</p>
-								<a href="https://easystayonline.com/" target="_blank"><button class="btn btn-primary">
+								<a href="https://easystayonline.com/" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>
@@ -123,9 +123,9 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Product Landing Page</a></h4>
+								<h4><a href="portfolio-details.php">Product Landing Page</a></h4>
 								<p>Web Application</p>
-								<a href="https://landing.uniquewomens.com/" target="_blank"><button class="btn btn-primary">
+								<a href="https://landing.uniquewomens.com/" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>
@@ -144,9 +144,9 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Business Portfolio Website</a></h4>
+								<h4><a href="portfolio-details.php">Business Portfolio Website</a></h4>
 								<p>Web Application</p>
-								<a href="https://www.easytechx.com/" target="_blank"><button class="btn btn-primary">
+								<a href="https://www.easytechx.com/" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>
@@ -165,9 +165,9 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Theme Selling Website</a></h4>
+								<h4><a href="portfolio-details.php">Theme Selling Website</a></h4>
 								<p>Web Application</p>
-								<a href="https://legendary-sawine-527f38.netlify.app/" target="_blank"><button class="btn btn-primary">
+								<a href="https://legendary-sawine-527f38.netlify.app/" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>
@@ -186,9 +186,9 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">CRM Software</a></h4>
+								<h4><a href="portfolio-details.php">CRM Software</a></h4>
 								<p>Web Application</p>
-								<a href="https://easytechsolutions.xyz/" target="_blank"><button class="btn btn-primary">
+								<a href="https://easytechsolutions.xyz/" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>
@@ -207,9 +207,9 @@
 								</a>
 							</div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Admin Dashboard</a></h4>
+								<h4><a href="portfolio-details.php">Admin Dashboard</a></h4>
 								<p>Web Application</p>
-								<a href="https://php.easytechx.com/Admin/login.php" target="_blank"><button class="btn btn-primary">
+								<a href="https://php.easytechx.com/Admin/login.php" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>

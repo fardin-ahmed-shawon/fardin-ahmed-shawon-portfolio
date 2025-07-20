@@ -1,5 +1,5 @@
 <!--================Footer Area =================-->
-<footer class="footer_area">
+<footer class="footer_area" style="padding: 30px 0;">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-12">

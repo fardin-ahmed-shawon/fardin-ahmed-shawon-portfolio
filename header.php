@@ -55,8 +55,9 @@
 			box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
         }
 		.skill-item:hover {
-			transform: translateY(-5px);
-			box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 20px;
+			transform: translateY(-10px);
+			/* box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 20px; */
+            box-shadow: 0px 15px 30px rgba(77, 87, 222, 0.3);
 		}
         .skill-item img {
             width: 50px;
@@ -69,6 +70,38 @@
             color: purple;
         }
 		/* end Skill section */
+
+        /* services section */
+        .feature_item {
+            border-radius: 30px;
+            padding: 30px;
+            transition: transform 0.3s, box-shadow 0.3s;
+            border: 1px dotted purple;
+            cursor: pointer;
+            box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+        }
+        /* End */
+
+        /* portfolio */
+        .portfolio_box {
+            transition: 0.5s;
+            cursor: pointer;
+        }
+        .portfolio_box:hover {
+            box-shadow: 0px 15px 30px rgba(77, 87, 222, 0.3);
+            padding: 20px;
+            border: 1px dotted purple;
+        }
+        /* End */
+
+        /* testimonial */
+        .testi_item {
+            transition: 0.5s;
+            cursor: pointer;
+            border-radius: 10px;
+            padding: 30px;
+            border: 1px dotted purple;
+        }
     </style>
 </head>
 
