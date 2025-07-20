@@ -19,6 +19,9 @@
 	<!-- main css -->
 	<link rel="stylesheet" href="css/style.css">
 	<style>
+        /* *{
+            font-family: 'Poppins', sans-serif;
+        } */
 		/* start Skill section */
         .skills-section {
             text-align: center;
