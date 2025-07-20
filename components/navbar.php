@@ -1,7 +1,7 @@
 	<!--================ Start Header Area =================-->
 	<header class="header_area">
 		<div class="main_menu">
-			<nav class="navbar navbar-expand-lg navbar-light" style="border-bottom: 3px solid #4458DC;">
+			<nav class="navbar navbar-expand-lg navbar-light" style="border-bottom: 3px solid;border-image: linear-gradient(to right, #4458dc, #854fee) 1;">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
 					<a style="font-size: 25px; color: #4458DC; font-weight: 600;" class="navbar-brand logo_h" href="index.php">Fardin.</a>

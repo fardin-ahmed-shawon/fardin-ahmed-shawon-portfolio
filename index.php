@@ -26,27 +26,45 @@ $page_title = 'Fardin - Home';  // Set the page title
 						</div>
 					</div>
 				</div>
-				<!-- Stats Card Area -->
-				<div class="row text-center mt-5 border-5 rounded-3 bg-white" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;">
-					<div class="col-md-3 col-6 border-right">
+				<!-- Starts Card Area -->
+				 <style>
+					/* .start-container {
+						border: 4px solid;
+						border-image: linear-gradient(to bottom, #4458dc, #854fee) 1;
+					} */
+					.start-item:nth-child(1) {
+						border-right: 4px solid;
+						border-image: linear-gradient(to bottom, #4458dc, #854fee) 1;
+					}
+					.start-item:nth-child(2) {
+						border-right: 4px solid;
+						border-image: linear-gradient(to bottom, #4458dc, #854fee) 1;
+					}
+					.start-item:nth-child(3) {
+						border-right: 4px solid;
+						border-image: linear-gradient(to bottom, #4458dc, #854fee) 1;
+					}
+				 </style>
+				<div class="start-container row text-center mt-5 border-5 rounded-3 bg-white" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;">
+					<div class="start-item col-md-3 col-6">
 						<div class="py-4">
 							<h1 class="mb-1">45+</h1>
 							<p class="text-muted mb-0">Total Clients</p>
 						</div>
 					</div>
-					<div class="col-md-3 col-6 border-right">
+					<div class="start-item col-md-3 col-6">
 						<div class="py-4">
 							<h1 class="mb-1">100+</h1>
 							<p class="text-muted mb-0">Total Projects</p>
 						</div>
 					</div>
-					<div class="col-md-3 col-6 border-right">
+					<div class="start-item col-md-3 col-6">
 						<div class="py-4">
 							<h1 class="mb-1">3+</h1>
 							<p class="text-muted mb-0">Years of Experience</p>
 						</div>
 					</div>
-					<div class="col-md-3 col-6">
+					<div class="start-item col-md-3 col-6">
 						<div class="py-4">
 							<h1 class="mb-1">100+</h1>
 							<p class="text-muted mb-0">Total Reviews</p>
