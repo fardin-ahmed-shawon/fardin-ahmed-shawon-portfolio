@@ -2,7 +2,10 @@
 
 	<?php include 'components/footerContent.php' ?>
 
+	<?php include 'animation.php' ?>
+
 	<!-- Optional JavaScript -->
+
 	<script>
 	function downloadCV() {
 		const link = document.createElement('a');

@@ -11,9 +11,13 @@ $page_title = 'Fardin - Home';  // Set the page title
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="banner_content">
-							<h3 class="text-uppercase">Hell0</h3>
-							<h1 class="text-uppercase">I am Fardin Ahmed</h1>
-							<h5 class="text-uppercase">Software Developer <i class="ri-code-s-slash-fill"></i></h5>
+
+							<h3 class="text-uppercase fade-slide delay-0">Hello</h3>
+							<h1 class="text-uppercase" id="typeWriter" data-text="I am Fardin Ahmed"></h1>
+							<h5 class="text-uppercase fade-slide delay-2">
+								Software Developer <i class="ri-code-s-slash-fill"></i>
+							</h5>
+
 							<div class="d-flex align-items-center">
 								<a class="primary_btn" href="contact.php"><span>Hire Me</span></a>
 								<a class="primary_btn tr-bg" onclick="downloadCV()"><span>Get CV</span></a>
@@ -26,7 +30,6 @@ $page_title = 'Fardin - Home';  // Set the page title
 						</div>
 					</div>
 				</div>
-
 				
 				<!-- Starts Card Area -->
 				 <!-- <style>
@@ -76,9 +79,10 @@ $page_title = 'Fardin - Home';  // Set the page title
 				
 
 				<!-- New Stats Section -->
-				<style>
+
+				<!-- <style>
 					.stats-back {
-						background: linear-gradient(135deg,rgb(247, 251, 255), #ffffff);
+						background: linear-gradient(135deg,rgb(247, 251, 255),rgb(244, 250, 255));
 						border-radius: 10px;
 						box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
 						border-right: 2px solid rgb(40, 114, 211);
@@ -105,8 +109,9 @@ $page_title = 'Fardin - Home';  // Set the page title
 						background-clip: text;
 						color: transparent;
 					}
-				</style>
-				<!-- <style>
+				</style> -->
+
+				<style>
 					.stats-back {
 						background: linear-gradient(to right, #0f172a, #334155);
 						border-radius: 10px;
@@ -115,6 +120,15 @@ $page_title = 'Fardin - Home';  // Set the page title
 					.stats-back p {
 						font-weight: 600;
 					}
+					.stats-back .stats-br {
+						border-right: 2px solid rgb(40, 114, 211);
+					}
+
+					@media only screen and (max-width: 1200px) {
+						.stats-back .stats-br {
+							border-right: none;
+						}
+					}
 					.gradiant-text-light {
 						background: linear-gradient(to right, #cbd5e1,rgb(171, 191, 220));
 						-webkit-background-clip: text;
@@ -122,13 +136,14 @@ $page_title = 'Fardin - Home';  // Set the page title
 						background-clip: text;
 						color: transparent;
 					}
-				</style> -->
+				</style>
+
 				<div class="container">
 					<div class="stats-back row text-uppercase p-3 mt-5 mt-lg-0">
 						<div class="col-md-6 col-lg-3">
 							<div class="stats-br d-flex align-items-center gap-4">
-								<h2 class="display-3 gradiant-text-light">
-									3+
+								<h2 class="display-3 gradiant-text-light counter" data-target="3">
+									0+
 								</h2>
 								<p class="gradiant-text-light justify-content-center ml-2 ls-4">
 									Years of <br> experience
@@ -137,8 +152,8 @@ $page_title = 'Fardin - Home';  // Set the page title
 						</div>
 						<div class="col-md-6 col-lg-3">
 							<div class="stats-br d-flex align-items-center gap-4">
-								<h2 class="display-3 gradiant-text-light">
-									120
+								<h2 class="display-3 gradiant-text-light counter" data-target="120">
+									0
 								</h2>
 								<p class="gradiant-text-light justify-content-center ml-2 ls-4">
 									satisfied <br> clients
@@ -147,8 +162,8 @@ $page_title = 'Fardin - Home';  // Set the page title
 						</div>
 						<div class="col-md-6 col-lg-3">
 							<div class="stats-br d-flex align-items-center gap-4">
-								<h2 class="display-3 gradiant-text-light">
-									1K
+								<h2 class="display-3 gradiant-text-light counter" data-target="1">
+									0K
 								</h2>
 								<p class="gradiant-text-light justify-content-center ml-2 ls-4">
 									customer <br> reviews
@@ -157,8 +172,8 @@ $page_title = 'Fardin - Home';  // Set the page title
 						</div>
 						<div class="col-md-6 col-lg-3">
 							<div class="d-flex align-items-center gap-4">
-							<h2 class="display-3 gradiant-text-light">
-								220
+							<h2 class="display-3 gradiant-text-light counter" data-target="220">
+								0
 							</h2>
 							<p class="gradiant-text-light justify-content-center ml-2 ls-4">
 								projects completed

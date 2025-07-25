@@ -39,11 +39,11 @@
 							</li> -->
 							<li class="nav-item <?= $current_page == 'contact.php' ? 'active' : '' ?>"><a class="nav-link" href="contact.php">Contact</a></li>
 							
-							<li class="nav-item"><a class="nav-link" style="cursor: pointer;">
-								<!-- Theme Toggle Icons -->
+							<!-- <li class="nav-item"><a class="nav-link" style="cursor: pointer;">
 								<i class="ri-sun-fill sun-icon"></i>
-								<!-- <i class="ri-moon-fill moon-icon"></i> -->
-							</a></li>
+								<i class="ri-moon-fill moon-icon"></i>
+							</a></li> -->
+							
 						</ul>
 					</div>
 				</div>

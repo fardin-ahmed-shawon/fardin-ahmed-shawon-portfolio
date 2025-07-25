@@ -3,8 +3,8 @@
 		<div class="container">
 			<div class="row justify-content-start align-items-center">
 				<div class="col-lg-5 mb-5 mb-lg-0">
-					<div style="box-shadow: rgba(101, 46, 240, 0.4) -5px 5px, rgba(101, 46, 240, 0.3) -10px 10px, rgba(46, 82, 240, 0.2) -15px 15px, rgba(114, 46, 240, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;border-left: 10px solid #4458DC;border-bottom: 10px solid #854FEE;">
-						<img class="img-fluid" src="img/fardin.jpg" alt="">
+					<div>
+						<img class="img-fluid" src="img/fardin-dev.png" alt="">
 					</div>
 				</div>
 
