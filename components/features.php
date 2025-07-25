@@ -38,7 +38,7 @@
 					<div class="feature_item">
 						<img src="img/services/s4.png" alt="">
 						<h4>E-commerce</h4>
-						<p>As a e-commerce specialist, I will develop any kind of e-commerce application single vendor & multi vendor both.</p>
+						<p>I will develop any kind of e-commerce application single vendor & multi vendor both.</p>
 					</div>
 				</div>
 			</div>

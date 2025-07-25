@@ -37,7 +37,7 @@
         							<h4>Md. Mainul Hasan</h4>
 									<h6>Founder & CEO</h6>
 									<h6>D Smart Group</h6>
-									<p>Working with this agency has been a game-changer for our company. Their team's dedication and innovative thinking have helped us to and achieve remarkable growth.</p>
+									<p>Working with this agency has been a game-changer for our company.His dedication and innovative thinking have helped us to and achieve remarkable growth.</p>
         						</div>
         					</div>
         				</div>

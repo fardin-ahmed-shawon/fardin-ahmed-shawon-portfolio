@@ -188,7 +188,7 @@
 							<div class="short_info">
 								<h4><a href="portfolio-details.php">CRM Software</a></h4>
 								<p>Web Application</p>
-								<a href="https://easytechsolutions.xyz/" target="_blank"><button class="px-3 primary_btn">
+								<a href="https://easytechsolutions.xyz/easy_data/easy_crm/" target="_blank"><button class="px-3 primary_btn">
 									Live Preview
 								</button></a>
 							</div>

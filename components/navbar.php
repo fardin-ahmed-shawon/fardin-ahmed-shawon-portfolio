@@ -4,7 +4,10 @@
 			<nav class="navbar navbar-expand-lg navbar-light" style="border-bottom: 3px solid;border-image: linear-gradient(to right, #4458dc, #854fee) 1;">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
-					<a style="font-size: 25px; color: #4458DC; font-weight: 600;" class="navbar-brand logo_h" href="index.php">Fardin.</a>
+					<a style="
+					font-size: 40px; 
+					font-weight: 800;
+					" class="gradiant-dark-text navbar-brand logo_h" href="index.php">fardin.</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="icon-bar"></span>

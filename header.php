@@ -18,10 +18,44 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.css" integrity="sha512-kJlvECunwXftkPwyvHbclArO8wszgBGisiLeuDFwNM8ws+wKIw0sv1os3ClWZOcrEB2eRXULYUsm8OVRGJKwGA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<!-- main css -->
 	<link rel="stylesheet" href="css/style.css">
+
 	<style>
-        /* *{
-            font-family: 'Poppins', sans-serif;
-        } */
+        /* Font Update */
+        @import url('https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap');
+        *{
+            font-family: "Host Grotesk", sans-serif;
+            font-optical-sizing: auto;
+            font-style: normal;
+        }
+        h4{
+            font-weight: 700;
+            font-family: "Host Grotesk", sans-serif;
+        }
+        /* Font end */
+
+        /* linear dark text */
+        .gradiant-dark-text {
+            background: linear-gradient(to right, #0f172a, #334155);
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+			background-clip: text;
+			color: transparent;
+        }
+        
+
+        .primary_btn span {
+            color: #fff;
+        }
+        .primary_btn:hover span {
+            color: #0a0f32;
+        }
+        .tr-bg span {
+            color: #000;
+        }
+        .tr-bg:hover span {
+            color: #fff;
+        }
+
 		/* start Skill section */
         .skills-section {
             text-align: center;
@@ -56,6 +90,7 @@
 			border: 1px dotted purple;
 			cursor: pointer;
 			box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+            background: linear-gradient(135deg, #efe8ef, #ffffff);
         }
 		.skill-item:hover {
 			transform: translateY(-10px);
@@ -78,10 +113,17 @@
         .feature_item {
             border-radius: 30px;
             padding: 30px;
+            /* height: 320px; */
             transition: transform 0.3s, box-shadow 0.3s;
             border: 1px dotted purple;
             cursor: pointer;
             box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+            background: linear-gradient(135deg, #efe8ef, #ffffff);
+        }
+        .feature_item:hover {
+            transform: translateY(-10px);
+            background: linear-gradient(135deg, #efe8ef, #ffffff);
+            box-shadow: 0px 15px 30px rgba(77, 87, 222, 0.3);
         }
         /* End */
 
