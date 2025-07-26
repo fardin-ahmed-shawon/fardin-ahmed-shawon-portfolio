@@ -49,6 +49,26 @@
       }
     }
 </style>
+
+<style>
+          #typeWriter {
+							height: 50px; /* Adjust based on your font-size */
+							display: inline-block;
+							overflow: hidden;
+							white-space: nowrap;
+						}
+						@media (max-width: 768px) {
+							#typeWriter {
+								height: 40px;
+							}
+						}
+						@media (min-width: 769px) {
+							#typeWriter {
+								height: 50px;
+							}
+						}
+</style>
+
 <script>
     document.addEventListener("DOMContentLoaded", () => {
       const typeEl = document.getElementById("typeWriter");
@@ -82,6 +102,7 @@
     });
 </script>
 <!-- Header Text Animation -->
+
 
 <!-- Counter Animation -->
 <script>

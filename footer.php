@@ -7,13 +7,23 @@
 	<!-- Optional JavaScript -->
 
 	<script>
-	function downloadCV() {
-		const link = document.createElement('a');
-		link.href = 'cv/fardin-ahmed-developer.pdf';
-		link.download = 'fardin-ahmed-developer.pdf'; // Optional: rename file on download
-		link.click();
-	}
+		function downloadCV() {
+			const link = document.createElement('a');
+			link.href = 'cv/fardin-ahmed-developer.pdf';
+			link.download = 'fardin-ahmed-developer.pdf'; // Optional: rename file on download
+			link.click();
+		}
 	</script>
+
+	<!-- AOS JS -->
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+	<script>
+		AOS.init({
+			duration: 1000,
+			once: true,
+		});
+	</script>
+
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="js/jquery-3.2.1.min.js"></script>
 	<script src="js/popper.js"></script>

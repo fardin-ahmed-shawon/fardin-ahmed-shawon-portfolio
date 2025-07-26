@@ -132,6 +132,7 @@
         }
         /* End */
 
+        
         /* portfolio */
         .portfolio_box {
             transition: 0.5s;
@@ -143,6 +144,7 @@
             border: 1px dotted purple;
         }
         /* End */
+
 
         /* testimonial */
         .testi_item {

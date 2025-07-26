@@ -1,11 +1,12 @@
-<!--================Start Portfolio Area =================-->
-<section class="portfolio_area" id="portfolio">
+	<!--================Start Portfolio Area =================-->
+	<section class="portfolio_area" id="portfolio">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
-					<div class="main_title text-left">
+					<div class="main_title text-left" data-aos="fade-down" data-aos-duration="800" data-aos-delay="100">
 						<h2>quality work <br>
-							Recently done project </h2>
+						Recently done project
+						</h2>
 					</div>
 				</div>
 			</div>

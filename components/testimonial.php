@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-8 text-center">
-					<div class="main_title">
+					<div class="main_title" data-aos="fade-down" data-aos-duration="800" data-aos-delay="100">
 						<h2>client say about me</h2>
 						<p>Is give may shall likeness made yielding spirit a itself togeth created after sea is in beast <br>
 							 beginning signs open god you're gathering ithe</p>
@@ -52,7 +52,7 @@
         							<h4>Mirza Inam</h4>
 									<h6>CEO & Founder</h6>
 									<h6>WishBD</h6>
-									<p>Delivered beyond expectations, enhancing our online reach and helping us. Professional, innovative, and always reliable. I am going to Highly recommend their services.</p>
+									<p>Delivered beyond expectations, enhancing our online reach. Professional, innovative, and always reliable. I am going to Highly recommend their services.</p>
         						</div>
         					</div>
         				</div>

@@ -8,28 +8,28 @@ $page_title = 'Fardin - Home';  // Set the page title
 	<section class="home_banner_area">
 		<div class="banner_inner">
 			<div class="container">
-				<div class="row">
-					<div class="col-lg-7">
-						<div class="banner_content">
+			<div class="row">
+				<div class="col-lg-7">
+					<div class="banner_content">
+					<h3 class="text-uppercase" data-aos="fade-up" data-aos-delay="0" data-aos-duration="800">Hello</h3>
+					<h1 class="text-uppercase" id="typeWriter" data-text="I am Fardin Ahmed" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1200"></h1>
+					<h5 class="text-uppercase" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
+						Software Developer <i class="ri-code-s-slash-fill"></i>
+					</h5>
 
-							<h3 class="text-uppercase fade-slide delay-0">Hello</h3>
-							<h1 class="text-uppercase" id="typeWriter" data-text="I am Fardin Ahmed"></h1>
-							<h5 class="text-uppercase fade-slide delay-2">
-								Software Developer <i class="ri-code-s-slash-fill"></i>
-							</h5>
-
-							<div class="d-flex align-items-center">
-								<a class="primary_btn" href="contact.php"><span>Hire Me</span></a>
-								<a class="primary_btn tr-bg" onclick="downloadCV()"><span>Get CV</span></a>
-							</div>
-						</div>
+					<div class="d-flex align-items-center" data-aos="zoom-in" data-aos-delay="600" data-aos-duration="800" style="gap: 15px; margin-top: 25px;">
+						<a class="primary_btn" href="contact.php"><span>Hire Me</span></a>
+						<a class="primary_btn tr-bg" onclick="downloadCV()"><span>Get CV</span></a>
 					</div>
-					<div class="col-lg-5">
-						<div class="home_right_img">
-							<img class="" src="img/banner/home-right.png" alt="">
-						</div>
 					</div>
 				</div>
+				<div class="col-lg-5" data-aos="fade-left" data-aos-delay="700" data-aos-duration="1000">
+					<div class="home_right_img">
+					<img src="img/banner/home-right.png" alt="">
+					</div>
+				</div>
+			</div>
+
 				
 				<!-- Starts Card Area -->
 				 <!-- <style>
@@ -139,49 +139,42 @@ $page_title = 'Fardin - Home';  // Set the page title
 				</style>
 
 				<div class="container">
-					<div class="stats-back row text-uppercase p-3 mt-5 mt-lg-0">
-						<div class="col-md-6 col-lg-3">
-							<div class="stats-br d-flex align-items-center gap-4">
-								<h2 class="display-3 gradiant-text-light counter" data-target="3">
-									0+
-								</h2>
-								<p class="gradiant-text-light justify-content-center ml-2 ls-4">
-									Years of <br> experience
-								</p>
-							</div>
-						</div>
-						<div class="col-md-6 col-lg-3">
-							<div class="stats-br d-flex align-items-center gap-4">
-								<h2 class="display-3 gradiant-text-light counter" data-target="120">
-									0
-								</h2>
-								<p class="gradiant-text-light justify-content-center ml-2 ls-4">
-									satisfied <br> clients
-								</p>
-							</div>
-						</div>
-						<div class="col-md-6 col-lg-3">
-							<div class="stats-br d-flex align-items-center gap-4">
-								<h2 class="display-3 gradiant-text-light counter" data-target="1">
-									0K
-								</h2>
-								<p class="gradiant-text-light justify-content-center ml-2 ls-4">
-									customer <br> reviews
-								</p>
-							</div>
-						</div>
-						<div class="col-md-6 col-lg-3">
-							<div class="d-flex align-items-center gap-4">
-							<h2 class="display-3 gradiant-text-light counter" data-target="220">
-								0
-							</h2>
-							<p class="gradiant-text-light justify-content-center ml-2 ls-4">
-								projects completed
-							</p>
-							</div>
-						</div>
+				<div class="stats-back row text-uppercase p-3 mt-5 mt-lg-0">
+					<div class="col-md-6 col-lg-3">
+					<div class="stats-br d-flex align-items-center gap-4">
+						<h2 class="display-3 gradiant-text-light counter" data-target="3" data-aos="fade-up" data-aos-once="true">0+</h2>
+						<p class="gradiant-text-light justify-content-center ml-2 ls-4">
+						Years of <br> experience
+						</p>
+					</div>
+					</div>
+					<div class="col-md-6 col-lg-3">
+					<div class="stats-br d-flex align-items-center gap-4">
+						<h2 class="display-3 gradiant-text-light counter" data-target="120" data-aos="fade-up" data-aos-once="true" data-aos-delay="100">0</h2>
+						<p class="gradiant-text-light justify-content-center ml-2 ls-4">
+						satisfied <br> clients
+						</p>
+					</div>
+					</div>
+					<div class="col-md-6 col-lg-3">
+					<div class="stats-br d-flex align-items-center gap-4">
+						<h2 class="display-3 gradiant-text-light counter" data-target="1" data-aos="fade-up" data-aos-once="true" data-aos-delay="200">0K</h2>
+						<p class="gradiant-text-light justify-content-center ml-2 ls-4">
+						customer <br> reviews
+						</p>
+					</div>
+					</div>
+					<div class="col-md-6 col-lg-3">
+					<div class="d-flex align-items-center gap-4">
+						<h2 class="display-3 gradiant-text-light counter" data-target="220" data-aos="fade-up" data-aos-once="true" data-aos-delay="300">0</h2>
+						<p class="gradiant-text-light justify-content-center ml-2 ls-4">
+						projects completed
+						</p>
+					</div>
 					</div>
 				</div>
+				</div>
+
 				<!-- End New Stats Section -->
 
 			</div>
