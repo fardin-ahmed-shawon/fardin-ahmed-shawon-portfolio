@@ -48,6 +48,12 @@
         border-color: transparent;
       }
     }
+    
+    @media only screen and (max-width: 531px) {
+      #typeWriter {
+        font-size: 1.8rem;
+      }
+    }
 </style>
 
 <style>

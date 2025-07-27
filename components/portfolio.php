@@ -112,6 +112,48 @@
 						</div>
 					</div>
 
+					<div class="col-lg-4 col-md-6 all latest business popular">
+						<div class="portfolio_box">
+							<div class="single_portfolio">
+								<img class="img-fluid w-100" src="img/portfolio/p10.jpg" alt="">
+								<div class="overlay"></div>
+								<a href="img/portfolio/p10.jpg" class="img-gal">
+									<div class="icon">
+										<span class="lnr lnr-cross"></span>
+									</div>
+								</a>
+							</div>
+							<div class="short_info">
+								<h4><a href="portfolio-details.php">Resturaunt Website</a></h4>
+								<p>Web Application</p>
+								<a href="https://nutrifriedchicken.com/" target="_blank"><button class="px-3 primary_btn">
+									Live Preview
+								</button></a>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 all latest business popular">
+						<div class="portfolio_box">
+							<div class="single_portfolio">
+								<img class="img-fluid w-100" src="img/portfolio/p11.jpg" alt="">
+								<div class="overlay"></div>
+								<a href="img/portfolio/p11.jpg" class="img-gal">
+									<div class="icon">
+										<span class="lnr lnr-cross"></span>
+									</div>
+								</a>
+							</div>
+							<div class="short_info">
+								<h4><a href="portfolio-details.php">Agriculture Financing</a></h4>
+								<p>Web Application</p>
+								<a href="https://farmercare.asia/" target="_blank"><button class="px-3 primary_btn">
+									Live Preview
+								</button></a>
+							</div>
+						</div>
+					</div>
+
 					<div class="col-lg-4 col-md-6 all ecommerce popular">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
@@ -153,7 +195,7 @@
 							</div>
 						</div>
 					</div>
-
+					
 					<div class="col-lg-4 col-md-6 all latest business">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
